@@ -2,40 +2,40 @@
 sidebar_position: 1
 ---
 
-# FAQ-MOTUS
+# FAQ-Soarchain Devices
 
-### --❓-- Is Motus Pro /Motus Mini compatible with my car brand and model?
+### --❓-- Is Soarchain Pro /Soarchain Mini compatible with my car brand and model?
 
-Both Motus Pro Motus Mini and compatible with all cars, that are compatible with international standards SAE J1979 and ISO 15031-5, that are both known as OBD-II standard. 
+Both Soarchain Pro Soarchain Mini and compatible with all cars, that are compatible with international standards SAE J1979 and ISO 15031-5, that are both known as OBD-II standard. 
 
 Please check the [compatibility](https://cars.soarchain.com/). 
 
-### --❓-- Is Motus available in my area?
+### --❓-- Is Soarchain available in my area?
 
 | Type      | Description | 
 | :---        |    :----:   |  
-| MOTUS      | The Motus is available for sale in the US and Canada for the initial batch.       | 
-| MOTUS Mini   | The Motus Mini is available for sale globally*. <br />         | 
+| Soarchain      | The Soarchain is available for sale in the US and Canada for the initial batch.       | 
+| Soarchain Mini   | The Soarchain Mini is available for sale globally*. <br />         | 
 
 *If you face any problem on completing your order from the sale page<br /> message to your corresponding country channel in [Soarchain Discord](https://discord.gg/r43PyGyCst).
 
-### --❓-- Does Motus use cellular data or requires an external sim card?
+### --❓-- Does Soarchain use cellular data or requires an external sim card?
 
 | Type      | Description | 
 | :---        |    :----:   |  
-| MOTUS Pro     | Motus uses an external nano Sim card for the LTE connectivity.      | 
-| MOTUS Mini     | Motus Mini does not require an external sim card to function. <br />It connects to your phone and uses its LTE and GPS. <br />You can monitor the wallet and applications from the mobile app. | 
+| Soarchain Pro     | Soarchain uses an external nano Sim card for the LTE connectivity.      | 
+| Soarchain Mini     | Soarchain Mini does not require an external sim card to function. <br />It connects to your phone and uses its LTE and GPS. <br />You can monitor the wallet and applications from the mobile app. | 
 
-### --❓-- Do the rewards go to my Motus Mobile App?
+### --❓-- Do the rewards go to my Soarchain Connect Mobile App?
 
-Your Soarchain wallet is created when you download the Soarchain Mobile App. The rewards for connected Motus devices can be monitored from the Mobile App. You have the option to send and receive Soar tokens from your app.
+Your Soarchain wallet is created when you download the Soarchain Mobile App. The rewards for connected Soarchain devices can be monitored from the Mobile App. You have the option to send and receive Soar tokens from your app.
 
 ### --❓-- What are the dimensions of the devices?
 
 | Type      | Dimensions | 
 | :---        |    :----:   |  
-| MOTUS Pro     | 78.5 x 142 x 360 mm       | 
-| MOTUS Mini   | 50 x 40 x 30 mm    | 
+| Soarchain Pro     | 78.5 x 142 x 360 mm       | 
+| Soarchain Mini   | 50 x 40 x 30 mm    | 
 
 ### --❓-- Can I buy the SOAR Token?
 

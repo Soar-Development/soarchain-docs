@@ -2,31 +2,31 @@
 sidebar_position: 3
 ---
 
-# Android - Motus mini Setup Guide
+# Android - Soarchain mini Setup Guide
 
-Motus mini setup guide for Android based phones.
+Soarchain mini setup guide for Android based phones.
 
 <details>
   <summary>I am using an iPhone.</summary>
   <div>
 
->  ​[iPhone Setup Guide](/docs/installation-guide/ios-motus-mini-setup.md)
+>  ​[iPhone Setup Guide](/docs/installation-guide/ios-soarchain-mini-setup.md)
 
   </div>
 </details>
 
 
 ## Before Starting
-Ensure you have your Motus mini and its box handy in your car before beginning the setup. Familiarize yourself with all the steps first for a smoother setup experience.
+Ensure you have your Soarchain mini and its box handy in your car before beginning the setup. Familiarize yourself with all the steps first for a smoother setup experience.
 
-Things you need for the Motus mini Setup:
+Things you need for the Soarchain mini Setup:
 
 - Phone
-- Motus mini 
-- Motus mini box and lid
+- Soarchain mini 
+- Soarchain mini box and lid
 - Your car
 
-> ❗ Be careful not to lose your Motus Mini box and its lid, as they may be required for any future registration processes.
+> ❗ Be careful not to lose your Soarchain Mini box and its lid, as they may be required for any future registration processes.
 
 <details>
   <summary>I lost my QR code sticker</summary>
@@ -42,7 +42,7 @@ Things you need for the Motus mini Setup:
 
 #### Disclaimer 
 
-This MOTUS Mini device is a prototype and has not yet received official CE (Conformité Européenne) or FCC (Federal Communications Commission) certifications. By using this device, you acknowledge and agree to the following terms and conditions in ​[Motus mini Disclaimer](https://www.soarchain.com/motus-mini-disclaimer).
+This Soarchain Mini device is a prototype and has not yet received official CE (Conformité Européenne) or FCC (Federal Communications Commission) certifications. By using this device, you acknowledge and agree to the following terms and conditions in ​[Soarchain mini Disclaimer](https://www.soarchain.com/soarchain-mini-disclaimer).
 
 ### Ticketing and Customer Support
 
@@ -53,7 +53,7 @@ Should you encounter any issues during the setup process or while using the devi
 1. Join our [Soarchain Discord](https://discord.gg/r43PyGyCst) server. 
 2. Create a ticket in the [Soarchain Discord support ticket channel](https://discord.gg/dsbnhMVV78). Soarchain team members will provide assistance to help resolve any problems that may arise.
 
-## Android - Motus mini Setup
+## Android - Soarchain mini Setup
 
 ### Pre-Setup Configuration
 
@@ -69,9 +69,9 @@ Should you encounter any issues during the setup process or while using the devi
 
 
 
-### Wallet Creation in Motus Connect & Drive
+### Wallet Creation in Soarchain Connect
 
-Download the [Motus Connect & Drive app](https://play.google.com/store/apps/details?id=com.sr.soarchain) and create a wallet.
+Download the [Soarchain Connect app](https://play.google.com/store/apps/details?id=com.sr.soarchain) and create a wallet.
 >If you have previously created your wallet, ensure you are signed in with it, or import your wallet by re-entering your 24-word passphrase.
 
 [Google Play Store app](https://play.google.com/store/apps/details?id=com.sr.soarchain)
@@ -84,14 +84,14 @@ Download the [Motus Connect & Drive app](https://play.google.com/store/apps/deta
 
 - It is essential that you **record these 24 seed words in a secure location** and ensure they are not lost. **Under no circumstances should you share these 24 seed words with anyone, including the Soarchain team.**
 
-- If you **lose these 24 words**, you will be **unable to access your account or your Motus Mini forever.**
+- If you **lose these 24 words**, you will be **unable to access your account or your Soarchain Mini forever.**
 
 - **Soarchain team has no access to your wallet and will not recover these words!**
 
 
->The wallet you create from the Motus Connect & Drive app is your unique Soarchain wallet.
+>The wallet you create from the Soarchain Connect app is your unique Soarchain wallet.
 >Please do not import any other crypto wallet you have to the app. 
->Do not import any other Cosmos based wallet on the Motus Connect & Drive app.
+>Do not import any other Cosmos based wallet on the Soarchain Connect app.
 
 
 |  |  |  |
@@ -100,9 +100,9 @@ Download the [Motus Connect & Drive app](https://play.google.com/store/apps/deta
 
 > After writing down the 24 seed words, you will reenter them on the app in order to access to your account. 
 
-### Plug your Motus mini to your car 
+### Plug your Soarchain mini to your car 
 
-Plug your Motus mini to your vehicle’s generic OBD2 port. The OBD2 port is generally found under the steering wheel on the left side of the driver seat. 
+Plug your Soarchain mini to your vehicle’s generic OBD2 port. The OBD2 port is generally found under the steering wheel on the left side of the driver seat. 
 
 A **red** LED light indicates the device is powered on when it is ready for the next steps.
 
@@ -119,10 +119,10 @@ A **red** LED light indicates the device is powered on when it is ready for the 
 </details>
 
 <details>
-  <summary>No red light on Motus mini</summary>
+  <summary>No red light on Soarchain mini</summary>
   <div>
 
-> The red LED light indicates that the Motus is powered on. If the red LED light is not visible, try unplugging and replugging the device. 
+> The red LED light indicates that the Soarchain is powered on. If the red LED light is not visible, try unplugging and replugging the device. 
 
 > If the light still doesn't appear, test the device on another vehicle if possible. Should you suspect a power issue with the device, please contact us by opening a customer support ticket on the Soarchain Discord server.
 
@@ -132,13 +132,13 @@ A **red** LED light indicates the device is powered on when it is ready for the 
 
 ### Registration - Install the Provisioning App
 
-- After you have created or imported your wallet, from the ```Dashboard``` section of the **Motus Connect & Drive** mobile app select **```Register a Motus Device```** button and follow the steps prompted on the app. 
+- After you have created or imported your wallet, from the ```Dashboard``` section of the **Soarchain Connect** mobile app select **```Register a Soarchain Device```** button and follow the steps prompted on the app. 
 
-- At a certain stage, you will be prompted to **provision** your Motus mini with your mobile phone. Provisioning involves setting up the Motus mini to connect to your phone's hotspot network, allowing it internet access. 
+- At a certain stage, you will be prompted to **provision** your Soarchain mini with your mobile phone. Provisioning involves setting up the Soarchain mini to connect to your phone's hotspot network, allowing it internet access. 
 
 - This provisioning process needs to be done only once, unless you change your phone or modify your hotspot credentials in the future.
 
-- While following the registration steps, the app will request you to download the  **Motus Secure Provisioning** app from the app store. Press **```Download```** to download the provisioning app from App Store. 
+- While following the registration steps, the app will request you to download the  **Soarchain Provisioning** app from the app store. Press **```Download```** to download the provisioning app from App Store. 
 
 <details>
   <summary>Watch the walkthrough video for provisioning</summary>
@@ -152,10 +152,10 @@ A **red** LED light indicates the device is powered on when it is ready for the 
 </details>
 
 <details>
-  <summary>I can't download the Motus Secure Provisioning App</summary>
+  <summary>I can't download the Soarchain Provisioning App</summary>
   <div>
 
-> Google Play Store link to the [Motus Secure Provisioning](https://play.google.com/store/apps/details?id=com.sr.esp) app.
+> Google Play Store link to the [Soarchain Provisioning](https://play.google.com/store/apps/details?id=com.sr.esp) app.
 
 
   </div>
@@ -164,13 +164,13 @@ A **red** LED light indicates the device is powered on when it is ready for the 
 
 
 
-### Registration - Provision your Motus mini
+### Registration - Provision your Soarchain mini
 
-Provisioning is a crucial step that links your Motus Mini device to your phone's hotspot network. The Motus Mini requires an internet connection to operate, which is supplied via your phone's hotspot network. 
+Provisioning is a crucial step that links your Soarchain Mini device to your phone's hotspot network. The Soarchain Mini requires an internet connection to operate, which is supplied via your phone's hotspot network. 
 
 Before continuing with the next step, please make sure that your **Cellular Data** and **Personal Hotspot** settings are on. 
 
-1️⃣. Open the **Motus Secure Provisioning** app after downloading it.
+1️⃣. Open the **Soarchain Provisioning** app after downloading it.
 
 2️⃣. Read the instructions carefully in the app before starting the provisioning process.
 
@@ -180,9 +180,9 @@ Before continuing with the next step, please make sure that your **Cellular Data
 
 > If you have provisioned the device before, you need to make sure that the hotspot is connected to your vehicle.
 
-To confirm a successful hotspot connection with your Motus device, ensure it is linked to your phone's hotspot. 
+To confirm a successful hotspot connection with your Soarchain device, ensure it is linked to your phone's hotspot. 
 
-While the Motus mini is plugged to your vehicle enable the hotspot settings.
+While the Soarchain mini is plugged to your vehicle enable the hotspot settings.
 
 A connected device of **Motusmini** on the ```Settings > Connections > Mobile Hotspot & Tethering > Mobile Hotspot``` signifies a successful connection. 
 
@@ -196,19 +196,19 @@ A connected device of **Motusmini** on the ```Settings > Connections > Mobile Ho
 
 > To do a provisioning reset, while the device is connected to your car, press and hold the button on the device for 6 seconds.
 
-> Disconnect and then reconnect the Motus Mini to your car. Close the **Motus Secure Provisioning** app, reopen it, and start again from the QR code scanning step.
+> Disconnect and then reconnect the Soarchain Mini to your car. Close the **Soarchain Provisioning** app, reopen it, and start again from the QR code scanning step.
 
 
   </div>
 </details>
 
-3️⃣. Retrieve your Motus mini box and locate the QR code sticker inside the top lid.
+3️⃣. Retrieve your Soarchain mini box and locate the QR code sticker inside the top lid.
 
 <details>
   <summary>Where is the QR code sticker?</summary>
   <div>
 
-> The provisioning QR code sticker is located on the top lid of the Motus mini box.
+> The provisioning QR code sticker is located on the top lid of the Soarchain mini box.
 
 > Please keep the box safe as it may be needed for any future provisioning actions.
 
@@ -245,7 +245,7 @@ Ensure the QR code is clearly visible and properly aligned with your camera.
 
 If you encounter any errors, verify that your Bluetooth is active and that no other devices are connected to your Bluetooth or Personal Hotspot.
 
-Another potential cause of scanning errors could be that the Motus mini is already provisioned to your phone. Please check if the device has been previously provisioned.
+Another potential cause of scanning errors could be that the Soarchain mini is already provisioned to your phone. Please check if the device has been previously provisioned.
 
   </div>
 </details>
@@ -285,7 +285,7 @@ Please refer to this video if you don't see your phone's name on the available W
 7️⃣. Enter your hotspot password.
 
 
-- Double-check your phone’s hotspot password before entry. Incorrect entries require a provisioning reset. Ensure correct entry on the first attempt in the **Motus Secure Provisioning app**.
+- Double-check your phone’s hotspot password before entry. Incorrect entries require a provisioning reset. Ensure correct entry on the first attempt in the **Soarchain Provisioning app**.
 
 - The phone’s hotspot name is written under ```Settings > Connections > Mobile Hotspot & Tethering > Mobile Hotspot```. 
 
@@ -303,9 +303,9 @@ Please refer to this video if you don't see your phone's name on the available W
 
 > To do a provisioning reset, while the device is connected to your car, press and hold the button on the device for 6 seconds.
 
-> Disconnect and then reconnect the Motus Mini to your car. Close the **Motus Secure Provisioning** app, reopen it, and resume from the QR code scanning step.
+> Disconnect and then reconnect the Soarchain Mini to your car. Close the **Soarchain Provisioning** app, reopen it, and resume from the QR code scanning step.
 
-> If your Motus mini doesn't have a button on it please go to the  ​[provisioning reset](installation-guide/motus-mini-troubleshooting.md#provisioning-reset) page.
+> If your Soarchain mini doesn't have a button on it please go to the  ​[provisioning reset](installation-guide/soarchain-mini-troubleshooting.md#provisioning-reset) page.
 
   </div>
 </details>
@@ -320,9 +320,9 @@ Please refer to this video if you don't see your phone's name on the available W
 
 > To do a provisioning reset, while the device is connected to your car, press and hold the button on the device for 6 seconds.
 
-> Disconnect and then reconnect the Motus Mini to your car. Close the **Motus Secure Provisioning** app, reopen it, and resume from the QR code scanning step.
+> Disconnect and then reconnect the Soarchain Mini to your car. Close the **Soarchain Provisioning** app, reopen it, and resume from the QR code scanning step.
 
-> If your Motus mini doesn't have a button on it please go to the  ​[provisioning reset](installation-guide/motus-mini-troubleshooting#provisioning-reset) page.
+> If your Soarchain mini doesn't have a button on it please go to the  ​[provisioning reset](installation-guide/soarchain-mini-troubleshooting#provisioning-reset) page.
 
   </div>
 </details>
@@ -330,7 +330,7 @@ Please refer to this video if you don't see your phone's name on the available W
 
 9️⃣. Validate the Hotspot connection
 
-To confirm a successful hotspot connection with your Motus device, ensure it is linked to your phone's hotspot. 
+To confirm a successful hotspot connection with your Soarchain device, ensure it is linked to your phone's hotspot. 
 
 <details>
   <summary>How to validate the connection?</summary>
@@ -352,25 +352,25 @@ A connected device of **Motusmini** on the ```Settings > Connections > Mobile Ho
   <summary>I don't see a connected device on my phone's hotspot?</summary>
   <div>
 
-> While your device is connected to your car, navigate to ```Settings > Personal Hotspot``` on your phone and wait a few seconds for the Motus mini to rediscover the hotspot network. If unsuccessful, please proceed with the following steps.
+> While your device is connected to your car, navigate to ```Settings > Personal Hotspot``` on your phone and wait a few seconds for the Soarchain mini to rediscover the hotspot network. If unsuccessful, please proceed with the following steps.
 
 > You need to do a provisioning reset to start the provisioning steps from the beginning and enter the correct password. 
 
 > To do a provisioning reset, while the device is connected to your car, press and hold the button on the device for 6 seconds.
 
-> Disconnect and then reconnect the Motus Mini to your car. Close the **Motus Secure Provisioning** app, reopen it, and resume from the QR code scanning step.
+> Disconnect and then reconnect the Soarchain Mini to your car. Close the **Soarchain Provisioning** app, reopen it, and resume from the QR code scanning step.
 
-> If your Motus mini doesn't have a button on it please go to the  ​[provisioning reset](installation-guide/motus-mini-troubleshooting.md#provisioning-reset) page.
+> If your Soarchain mini doesn't have a button on it please go to the  ​[provisioning reset](installation-guide/soarchain-mini-troubleshooting.md#provisioning-reset) page.
 
   </div>
 </details>
 
-🔟. Once done, close the **Motus Secure Provisioning** app and return to the **Motus Connect & Drive** app. This completes the provisioning process.
+🔟. Once done, close the **Soarchain Provisioning** app and return to the **Soarchain Connect** app. This completes the provisioning process.
 
 
 ### Registration - Final checks
 
-After successfully completing the provisioning process close the ***Motus Secure Provisioning*** app and come back to the ***Motus Connect & Drive*** app, press the ```Already Provisioned``` button.
+After successfully completing the provisioning process close the ***Soarchain Secure Provisioning*** app and come back to the ***Soarchain Connect*** app, press the ```Already Provisioned``` button.
 
 On the ```Registration Checks``` screen, wait for the final checks to be done of your device.  Then, wait for the ```Register Device``` button to turn blue and then press it to complete the registration.
 
@@ -386,26 +386,26 @@ If your balance is less than 0.01 tMOTUS, or if you encounter an error during th
 </details>
 
 <details>
-  <summary>Issue on "Checking Motus Device Connection"</summary>
+  <summary>Issue on "Checking Soarchain Device Connection"</summary>
   <div>
 
-This check is necessary to confirm the connection between your phone and the Motus Mini. If you encounter an error, please ensure that you have provisioned your Motus Mini and that the device is connected to your phone's hotspot network.
+This check is necessary to confirm the connection between your phone and the Soarchain Mini. If you encounter an error, please ensure that you have provisioned your Soarchain Mini and that the device is connected to your phone's hotspot network.
 
-Alternatively, you can unplug and replug the Motus Mini into your car, restart the Motus Connect & Drive app, verify the hotspot connection, and then try again.
+Alternatively, you can unplug and replug the Soarchain Mini into your car, restart the Soarchain Connect app, verify the hotspot connection, and then try again.
 
   </div>
 </details>
 
 
 <details>
-  <summary>Issue on "Validating Motus Device Pubkey"</summary>
+  <summary>Issue on "Validating Soarchain Device Pubkey"</summary>
   <div>
 
-This process verifies that your Motus Mini has a valid public key and is not linked to a different wallet.
+This process verifies that your Soarchain Mini has a valid public key and is not linked to a different wallet.
 
-- Should the public key be absent or not retrievable from the Motus Mini, it means your device cannot validate the Motus Device. In this case, the public key is either unavailable or not defined. To resolve this, please wait for the current check to complete, or restart the process. You can do this by unplugging and replugging the Motus Mini into your vehicle, restarting the Motus Connect & Drive app, ensuring the hotspot connection is active, and then attempting the procedure once more.
+- Should the public key be absent or not retrievable from the Soarchain Mini, it means your device cannot validate the Soarchain Device. In this case, the public key is either unavailable or not defined. To resolve this, please wait for the current check to complete, or restart the process. You can do this by unplugging and replugging the Soarchain Mini into your vehicle, restarting the Soarchain Connect app, ensuring the hotspot connection is active, and then attempting the procedure once more.
 
-- In the event the public key is already associated with a different wallet, it indicates that your Motus device is pre-registered with another wallet. To utilize this device, you need to first import the wallet that's currently registered. After importing, you can either continue using the Motus device with the existing wallet or unregister it to link it with a new wallet.
+- In the event the public key is already associated with a different wallet, it indicates that your Soarchain device is pre-registered with another wallet. To utilize this device, you need to first import the wallet that's currently registered. After importing, you can either continue using the Soarchain device with the existing wallet or unregister it to link it with a new wallet.
 
 If the issue still persists, please create a [support ticket](#discord) on the Soarchain Discord server for assistance.
 
@@ -415,13 +415,13 @@ If the issue still persists, please create a [support ticket](#discord) on the S
 
 ### Earning Rewards
 
-Upon successful registration of your device, you will unlock the complete set of features offered by the Motus Connect & Drive app, and you'll begin to accumulate tMOTUS tokens. It's crucial to note the following:
+Upon successful registration of your device, you will unlock the complete set of features offered by the Soarchain Connect app, and you'll begin to accumulate tMOTUS tokens. It's crucial to note the following:
 
 To earn rewards, you must:
 
-- The Motus mini should be plugged to your vehicle while driving.
-- Make sure the your phone's personal hotspot is enabled and the connection between Motus mini and your phone is linked while using the app.
-- Ensure that the Motus Connect & Drive app is always running while you are driving. (The app also functions in the background, but it should not be completely closed.)
+- The Soarchain mini should be plugged to your vehicle while driving.
+- Make sure the your phone's personal hotspot is enabled and the connection between Soarchain mini and your phone is linked while using the app.
+- Ensure that the Soarchain Connect app is always running while you are driving. (The app also functions in the background, but it should not be completely closed.)
 
 ### Important Notes
 
@@ -429,35 +429,35 @@ To earn rewards, you must:
 
 > ❗ It is essential that you **record these 24 seed words in a secure location** and ensure they are not lost. **Under no circumstances should you share these 24 seed words with anyone, including the Soarchain team!**
 
-> ❗ If you **lose these 24 words**, you will be **unable to access your wallet account or your Motus Mini forever!**
+> ❗ If you **lose these 24 words**, you will be **unable to access your wallet account or your Soarchain Mini forever!**
 
 > ❗**Soarchain team has no access to your wallet and will not recover these words!**
 
 
-#### Motus mini firmware over-the-air update (OTA) 
+#### Soarchain mini firmware over-the-air update (OTA) 
 
-When an update is available for the Motus Mini device firmware, the device will automatically initiate the download of the latest firmware version as soon as it connects to the hotspot.
+When an update is available for the Soarchain Mini device firmware, the device will automatically initiate the download of the latest firmware version as soon as it connects to the hotspot.
 
-If the Motus Connect & Drive mobile app is open during the firmware installation, you will be able to track the update progress.
+If the Soarchain Connect mobile app is open during the firmware installation, you will be able to track the update progress.
 
 > ℹ️ **Do Not Unplug the Device:**
-Please keep your Motus Mini connected to your vehicle.
+Please keep your Soarchain Mini connected to your vehicle.
 
 > ℹ️ **Keep the App Open:**
-Ensure that the Motus Connect & Drive app remains open during the entire update process.
+Ensure that the Soarchain Connect app remains open during the entire update process.
 
 > ℹ️ **Maintain Internet Connection:**
 Do not disable your internet connection during the update.
 
-Please be aware that following the Over-The-Air (OTA) update, the device will automatically reset itself, which may result in a temporary disconnection from the hotspot. It is important to ensure that the hotspot is reconnected before proceeding with any further actions involving the app or the Motus Mini device.
+Please be aware that following the Over-The-Air (OTA) update, the device will automatically reset itself, which may result in a temporary disconnection from the hotspot. It is important to ensure that the hotspot is reconnected before proceeding with any further actions involving the app or the Soarchain Mini device.
 
 
 #### Changing your hotspot settings
 
-After the setup process for the Motus mini is finished, it will maintain its connection to your mobile phone using the credentials you provided. However, **if you modify the name or password of your phone's hotspot credentials, the Motus mini will no longer be able to connect to your phone**. 
+After the setup process for the Soarchain mini is finished, it will maintain its connection to your mobile phone using the credentials you provided. However, **if you modify the name or password of your phone's hotspot credentials, the Soarchain mini will no longer be able to connect to your phone**. 
 
 Therefore, you should avoid changing your hotspot name or password, or alternatively, perform a device reset and repeat the provisioning process from start after you change your credentials. 
 
-To do a provisioning reset, while the device is connected to your car, press and hold the button on the device for 6 seconds. Repeat the Provisioning steps from the **Motus Secure Provisioning** app.
+To do a provisioning reset, while the device is connected to your car, press and hold the button on the device for 6 seconds. Repeat the Provisioning steps from the **Soarchain Provisioning** app.
 
-> If your Motus mini doesn't have a button on it please go to the  ​[provisioning reset](installation-guide/motus-mini-troubleshooting.md#provisioning-reset) page.
+> If your Soarchain mini doesn't have a button on it please go to the  ​[provisioning reset](installation-guide/soarchain-mini-troubleshooting.md#provisioning-reset) page.

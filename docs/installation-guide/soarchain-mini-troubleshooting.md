@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Motus mini Setup Troubleshooting
+# Soarchain mini Setup Troubleshooting
 
 
 ## Provisioning Reset
@@ -10,23 +10,23 @@ sidebar_position: 4
 ### Provisioning Reset - Model Number: #000103
 
 
-Press and hold on the button on the Motus mini for 6 seconds. You will see the LED lights change their state after holding the button for 6 seconds. This indicates the provisioning reset was completed. Finally, you can try to provision your Motus mini again.
+Press and hold on the button on the Soarchain mini for 6 seconds. You will see the LED lights change their state after holding the button for 6 seconds. This indicates the provisioning reset was completed. Finally, you can try to provision your Soarchain mini again.
 
 ### Provisioning Reset - Model Number: #000102
 
 
-1. Ensure that there are no devices connected to your phone's mobile hotspot by checking from your phone's settings, including the Motus mini. It's possible that the connection may still go through even if the provisioning app prompts a failure. 
+1. Ensure that there are no devices connected to your phone's mobile hotspot by checking from your phone's settings, including the Soarchain mini. It's possible that the connection may still go through even if the provisioning app prompts a failure. 
 
-2. If there are no devices connected, you will require the following items to reset the Motus mini:
+2. If there are no devices connected, you will require the following items to reset the Soarchain mini:
 
 - **A Type C to USB 2.0 cable**
 - **A desktop or laptop computer**
 - **A Chrome web browser installed on the computer**
-- **Your Motus mini**
+- **Your Soarchain mini**
 
 3. Start by disconnecting any other devices connected to your computer. 
 
-4. Connect your Motus mini to the computer using the Type-C to USB-2.0 cable. If the LED on the Motus mini lights up, it indicates that Motus is ready for the provisioning reset. 
+4. Connect your Soarchain mini to the computer using the Type-C to USB-2.0 cable. If the LED on the Soarchain mini lights up, it indicates that Soarchain device is ready for the provisioning reset. 
 
 #### Windows Based PC
 
@@ -47,9 +47,9 @@ Press and hold on the button on the Motus mini for 6 seconds. You will see the L
 
 9. Next, open your **Chrome** browser and navigate to this website: https://reset.soarchain.com/. Press ```Connect``` and select the ```CP210x USB to UART Bridge Controller(COMx)```. 
 
-10. Then click on the ```reset``` button on the site and wait for the color to change green again. Also check if the Motus mini changes the LED colors, which indicates that the device has been reset successfully.
+10. Then click on the ```reset``` button on the site and wait for the color to change green again. Also check if the Soarchain mini changes the LED colors, which indicates that the device has been reset successfully.
 
-11. You can try to provision your Motus mini again.
+11. You can try to provision your Soarchain mini again.
 
 #### Linux Based PC
 
@@ -65,9 +65,9 @@ The output should something like the image below.
 
 6.  Next, open your **Chrome** browser and navigate to this website: https://reset.soarchain.com/. Press ```Connect``` and select the ```CP210x USB to UART Bridge Controller (ttyUSBx)```. 
 
-7. Then click on the ```reset``` button on the site and wait for the color to change green again. Also check if the Motus mini changes the LED colors, which indicates that the device has been reset successfully.
+7. Then click on the ```reset``` button on the site and wait for the color to change green again. Also check if the Soarchain mini changes the LED colors, which indicates that the device has been reset successfully.
 
-8. You can try to provision your Motus mini again.
+8. You can try to provision your Soarchain mini again.
 
 #### MAC Based PC
 
@@ -83,17 +83,17 @@ The output should something like the image below.
 
 6.  Next, open your **Chrome** browser and navigate to this website: https://reset.soarchain.com/. Press ```Connect``` and select the ```CP210x USB to UART Bridge Controller (tty.usbserial-000x)```. 
 
-7. Then click on the ```reset``` button on the site and wait for the color to change green again. Also check if the Motus mini changes the LED colors, which indicates that the device has been reset successfully.
+7. Then click on the ```reset``` button on the site and wait for the color to change green again. Also check if the Soarchain mini changes the LED colors, which indicates that the device has been reset successfully.
 
-8. You can try to provision your Motus mini again.
+8. You can try to provision your Soarchain mini again.
 
 
-Some quick reasons why the ***Motus Secure Provisioning*** app prompts ```Device not Found``` after you scan the QR code can be: 
+Some quick reasons why the ***Soarchain Provisioning*** app prompts ```Device not Found``` after you scan the QR code can be: 
 
  - Qr code scanned was incorrect or unreadable because of its distance to the camera, orientation or lighting. 
- - Motus mini was not plugged into your car or the LED was not on when you scanned the Qr code. 
+ - Soarchain mini was not plugged into your car or the LED was not on when you scanned the Qr code. 
  - You did not enable the settings written on the docs. (Bluetooth - Cellular Data - Mobile Hotspot) 
- - Your mobile phone’s Bluetooth is connected to another device then the Motus mini when you scan the QR code. 
+ - Your mobile phone’s Bluetooth is connected to another device then the Soarchain mini when you scan the QR code. 
  - You have already provisioned your device successfully.
 
 Please go to the:

@@ -22,7 +22,7 @@ Soarchain is disrupting the transportation realm with blockchain technology, off
 
 ### How Soarchain is changing the way, we get around?
 
-The MOTUS device is at the forefront of this innovation, connecting all cars to the Soarchain network with just a single plug-in unlocking access to an exciting array of applications and services. To set it up, you must plug a MOTUS device into your standard port for instantaneous access.
+The Soarchain device is at the forefront of this innovation, connecting all cars to the Soarchain network with just a single plug-in unlocking access to an exciting array of applications and services. To set it up, you must plug a Soarchain device into your standard port for instantaneous access.
 
 ### Purpose specific L1 solution
 

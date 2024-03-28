@@ -32,10 +32,10 @@ The program covers all components of the Soarchain network, including but not li
 
 - Blockchain Core
 - Smart Contracts
-- Motus Connect & Drive App
+- Soarchain Connect App
 - Node Software
 - APIs and Integrations
-- Motus devices
+- Soarchain devices
 - Websites and Documentations
 
 ## Rewards

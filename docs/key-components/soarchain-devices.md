@@ -2,14 +2,14 @@
 sidebar_position: 3
 ---
 
-# Motus (Onboard Units)
+# Soarchain Devices (Onboard Units)
 
 
-### [MOTUS](https://www.soarchain.com/motus)  are the open-source hardware units that enable the vehicles to communicate with each other, the infrastructure, people and the cloud through different communication protocols.
+### [Soarchain devices](https://www.soarchain.com/devices)  are the open-source hardware units that enable the vehicles to communicate with each other, the infrastructure, people and the cloud through different communication protocols.
 
-![Motus](/img/soar9_v2.927.png)
+![Soarchain Pro](/img/soar9_v2.927.png)
 <p align="center">
-Motus
+Soarchain Pro 
 </p>
 
 
@@ -32,13 +32,13 @@ Motus
 - **High-precision GNSS and Inertial Measurement Unit (IMU)** to provide data for localization, safety and autonomy applications.
 
 
-> There are different types of Motus devices which support different configurations and proof mechanisms. Motus is the full-fledged hardware that employs all the aforementioned features and is able to participate in all the proof mechanisms in Soarchain, as well as issue all types of challenges.
+> There are different types of Soarchain devices which support different configurations and proof mechanisms. Soarchain devices are the full-fledged hardware that employs all the aforementioned features and is able to participate in all the proof mechanisms in Soarchain, as well as issue all types of challenges.
 >
-> **[MOTUS Mini](https://www.soarchain.com/motus-mini)** is the low-end hardware which employs only a few of these features and links directly to the user’s mobile device to use it as a relay device. They can only participate in network-based proof mechanisms. Motus can be thought of as a light, messaging and computational node.
+> **[Soarchain Mini](https://www.soarchain.com/soarchain-mini)** is the low-end hardware which employs only a few of these features and links directly to the user’s mobile device to use it as a relay device. They can only participate in network-based proof mechanisms. Soarchain mini can be thought of as a light, messaging and computational node.
 
 
-![Motus mini](/img/mini_render_1.jpeg)
+![Soarchain mini](/img/mini_render_1.jpeg)
 
 <p align="center">
-Motus Mini
+Soarchain Mini
 </p>
