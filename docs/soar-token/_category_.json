@@ -1,8 +1,8 @@
 {
-  "label": "$MOTUS Token",
+  "label": "$SOAR Token",
   "position": 10,
   "link": {
     "type": "generated-index",
-    "description": "Discover the native $MOTUS token."
+    "description": "Discover the native $SOAR token."
   }
 }
