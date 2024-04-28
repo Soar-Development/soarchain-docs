@@ -378,9 +378,9 @@ On the ```Registration Checks``` screen, wait for the final checks to be done of
   <summary>Issue on "Verifying balance"</summary>
   <div>
 
-The average gas fee required for the registration transaction is approximately 0.01 tMOTUS. To successfully complete this check, your balance must exceed 0.01 tMOTUS.
+The average gas fee required for the registration transaction is approximately 0.01 tSOAR. To successfully complete this check, your balance must exceed 0.01 tSOAR.
 
-If your balance is less than 0.01 tMOTUS, or if you encounter an error during this check, please create a [support ticket](#discord) on the Soarchain Discord server for assistance.
+If your balance is less than 0.01 tSOAR, or if you encounter an error during this check, please create a [support ticket](#discord) on the Soarchain Discord server for assistance.
 
   </div>
 </details>
@@ -415,7 +415,7 @@ If the issue still persists, please create a [support ticket](#discord) on the S
 
 ### Earning Rewards
 
-Upon successful registration of your device, you will unlock the complete set of features offered by the Soarchain Connect app, and you'll begin to accumulate tMOTUS tokens. It's crucial to note the following:
+Upon successful registration of your device, you will unlock the complete set of features offered by the Soarchain Connect app, and you'll begin to accumulate tSOAR tokens. It's crucial to note the following:
 
 To earn rewards, you must:
 

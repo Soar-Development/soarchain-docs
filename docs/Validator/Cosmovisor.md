@@ -98,7 +98,7 @@ After=network-online.target
 
 [Service]
 User=<your-ubuntu-user-name>
-ExecStart=/home/<your-ubuntu-user-name>/go/bin/cosmovisor start --log_level info --minimum-gas-prices=0.0001utmotus
+ExecStart=/home/<your-ubuntu-user-name>/go/bin/cosmovisor start --log_level info --minimum-gas-prices=0.0001utsoar
 Restart=always
 RestartSec=3
 LimitNOFILE=4096

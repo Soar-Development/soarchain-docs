@@ -84,7 +84,7 @@ After having a valid smart contract binary, it can be stored successfully in the
 We have the wasm binary executable ready. Now it is time to store the code to the Soarchain.
 
 ```shell
-RES=$(soarchaind tx wasm store artifacts/my_first_contract.wasm --from mywallet --gas-prices 0.025umotus --chain-id soarchaintestnet --gas auto --gas-adjustment 1.5 -y --output json -b block)
+RES=$(soarchaind tx wasm store artifacts/my_first_contract.wasm --from mywallet --gas-prices 0.025usoar --chain-id soarchaintestnet --gas auto --gas-adjustment 1.5 -y --output json -b block)
 ```
 
 If you require additional clarification regarding any of the command flags,
@@ -131,7 +131,7 @@ INIT='{"count":100}'
 
 # instantiate the contract
 soarchaind tx wasm instantiate $CODE_ID "$INIT" \
-    --label "my first contract" --gas-prices 0.025umotus --gas auto --gas-adjustment 1.5 -b block -y --no-admin --chain-id soarchaintestnet --from mywallet 
+    --label "my first contract" --gas-prices 0.025usoar --gas auto --gas-adjustment 1.5 -b block -y --no-admin --chain-id soarchaintestnet --from mywallet 
 ```
 If you require additional clarification regarding any of the command flags,
 <details>
@@ -182,7 +182,7 @@ After sending the increment transaction, you can observe that +1 has grown from 
 
 ```shell
 TRY_INCREMENT='{"increment": {}}'
-soarchaind tx wasm execute $CONTRACT_ADDR "$TRY_INCREMENT" --gas-prices 0.025umotus --gas auto --gas-adjustment 1.5 -y --chain-id soarchaintestnet --from mywallet
+soarchaind tx wasm execute $CONTRACT_ADDR "$TRY_INCREMENT" --gas-prices 0.025usoar --gas auto --gas-adjustment 1.5 -y --chain-id soarchaintestnet --from mywallet
 ```
 
 # Reset contract’s count
@@ -191,5 +191,5 @@ Let's submit a reset transaction lastly. You must pay gas fees because reset tra
 
 ```shell
 RESET='{"reset": {"count": 0}}'
-soarchaind tx wasm execute $CONTRACT_ADDR "$RESET" --gas-prices 0.025umotus --gas auto --gas-adjustment 1.5 -y --chain-id soarchaintestnet --from mywallet 
+soarchaind tx wasm execute $CONTRACT_ADDR "$RESET" --gas-prices 0.025usoar --gas auto --gas-adjustment 1.5 -y --chain-id soarchaintestnet --from mywallet 
 ```

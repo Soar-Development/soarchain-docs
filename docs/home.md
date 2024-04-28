@@ -107,18 +107,18 @@ hide_table_of_contents: true
   </div>
 </div>
 
-## $MOTUS
+## $SOAR
 
 <div class="docs-card-container">
   <div class="row row-cols-1 row-cols-md-3a g-3">
     <div class="col">
       <div class="card card-body h-100 d-flex flex-column">
         <a
-          href="/category/motus-token"
+          href="/category/soar-token"
           class="card-title card-link stretched-link"
-        ><h2>$MOTUS Token</h2></a>
+        ><h2>$SOAR Token</h2></a>
         <p class="card-text">
-          Start here for native $MOTUS token.
+          Start here for native $SOAR token.
         </p>
       </div>
     </div>
@@ -142,7 +142,7 @@ hide_table_of_contents: true
         <a href="/category/installation-guide" class="card-title card-link stretched-link">
           <h2>Installation Guide</h2>
         </a>
-        <p class="card-text">Motus instalation and onboarding information.</p>
+        <p class="card-text">Soarchain devices instalation and onboarding information.</p>
       </div>
     </div>
     <div class="col">

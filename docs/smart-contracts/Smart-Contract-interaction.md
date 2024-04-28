@@ -90,7 +90,7 @@ Let's see how it works:
   const contractAddress = "soar14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9sg0qwca"
   const msg = {"increment": {}}
   let fee = {
-      amount: [{amount: "5000",denom: "utmotus"}],
+      amount: [{amount: "5000",denom: "utsoar"}],
       gas: "500000"
   }
 

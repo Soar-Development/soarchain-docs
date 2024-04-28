@@ -40,27 +40,27 @@ The program covers all components of the Soarchain network, including but not li
 
 ## Rewards
 
-Rewards will be distributed in Motus tokens and are based on two key factors: the severity of the issue (impact on the network and users) and the gravity of the issue (type and complexity). The rewards are categorized as follows:
+Rewards will be distributed in SOAR tokens and are based on two key factors: the severity of the issue (impact on the network and users) and the gravity of the issue (type and complexity). The rewards are categorized as follows:
 
 **Critical Issues (High Severity & High Gravity):**
 - Impact: Widespread impact, affecting a significant portion of the network or critical system components.
-- Reward: Up to 10,000 MOTUS tokens.
+- Reward: Up to 10,000 SOAR tokens.
 
 **Major Issues (High Severity & Medium Gravity):**
 - Impact: Affects several users or crucial network functionalities, but not at a widespread level.
-- Reward: Up to 5,000 MOTUS tokens.
+- Reward: Up to 5,000 SOAR tokens.
 
 **Moderate Issues (Medium Severity & Variable Gravity):**
 - Impact: Affects limited users or has potential for more significant impact if not addressed.
-- Reward: Up to 2,000 MOTUS tokens.
+- Reward: Up to 2,000 SOAR tokens.
 
 **Minor Issues (Low Severity & Any Gravity):**
 - Impact: Minor impact with no immediate threat to the network or users.
-- Reward: Up to 500 MOTUS tokens.
+- Reward: Up to 500 SOAR tokens.
 
 **Suggestions and Enhancements:**
 - Impact: Proposals for improvements, optimizations, or feature requests.
-- Reward: Up to 250 MOTUS tokens, based on the potential impact and feasibility.
+- Reward: Up to 250 SOAR tokens, based on the potential impact and feasibility.
 
 ## Submission Process
 
