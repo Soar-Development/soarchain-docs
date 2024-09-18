@@ -14,5 +14,6 @@ sidebar_position: 3
 
 ![Data Flow](/img/architecture.png)
 
-## Read the [Whitepaper](/introduction/whitepaper).
+<!--- ## Read the [Whitepaper](/introduction/whitepaper). -->
+
 

@@ -91,7 +91,7 @@ Download the [Soarchain Connect app](https://play.google.com/store/apps/details?
 
 >The wallet you create from the Soarchain Connect app is your unique Soarchain wallet.
 >Please do not import any other crypto wallet you have to the app. 
->Do not import any other Cosmos based wallet on the Soarchain Connect app.
+>Do not import any other wallets on the Soarchain Connect app.
 
 
 |  |  |  |
