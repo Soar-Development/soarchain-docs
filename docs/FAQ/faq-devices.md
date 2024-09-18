@@ -14,7 +14,7 @@ Please check the [compatibility](https://cars.soarchain.com/).
 
 | Type      | Description | 
 | :---        |    :----:   |  
-| Soarchain      | The Soarchain is available for sale in the US and Canada for the initial batch.       | 
+| Soarchain Pro    | The Soarchain is available for sale in the US and Canada for the initial batch.       | 
 | Soarchain Mini   | The Soarchain Mini is available for sale globally*. <br />         | 
 
 *If you face any problem on completing your order from the sale page<br /> message to your corresponding country channel in [Soarchain Discord](https://discord.gg/r43PyGyCst).
@@ -43,8 +43,7 @@ The SOAR token is not yet released. We will let everyone know when our native SO
 
 ### --❓-- Is Soarchain a layer 1 protocol or does it run on another chain?
 
-Yes, Soarchain is an application-specific Layer 1  blockchain that is optimized to serve fully-decentralized mobility applications, ranging from forward collision warning to pre-crash warning, predictive maintenance, remote diagnostics, pay-as-you-drive insurance, fleet management, Cooperative Adaptive Cruise Control, and ultimately to autonomous fleet driving. 
+**Soarchain is not a Layer 1 protocol. It operates on the Solana blockchain, leveraging Solana's infrastructure to provide a scalable, decentralized platform for mobility solutions.** 
 
-Instead of building a decentralized application on top of an underlying blockchain like Ethereum, we have built our own blockchain with the help of Tendermint Core BFT consensus layer and networking layer, and Cosmos SDK for the control of the state-machine logic and built-in functionalities that it provides such as smart contracts and staking. Our blockchain employs novel implementations of data availability scaling solutions that include random network subsampling and challenge mechanisms through the use of well-established cryptographic primitives and stochastic models.
-
+While Soarchain originally functioned as a Layer 1, the migration to Solana allows it to focus on enabling secure, real-time data sharing between vehicles without the need to manage its own blockchain. By utilizing Solana’s ecosystem, Soarchain scales efficiently and supports advanced mobility and AI-based applications.
 

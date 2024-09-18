@@ -5,22 +5,8 @@ hide_table_of_contents: true
 
 # Blockchain
 
->
-## Soarchain is a distributed ledger which is a decentralized, immutable and append-only database that keeps track of the account balances, unique node addresses and various scores of the network participants.
+Soarchain’s decentralized infrastructure provides a secure and reliable environment for the management of vehicle-generated data. Built on the **Solana blockchain**, Soarchain enables seamless and tamper-proof data exchanges, ensuring that all transactions are immutable and transparent to participants.
 
- It is composed of blocks that each contain a header and a Merkle tree that comprises a list of hashes that are generated from the transactions in that block.
+The blockchain ensures that all data shared within the Soarchain ecosystem is verifiable, traceable, and resistant to tampering. This is crucial for mobility use cases such as predictive maintenance, dynamic insurance models, and vehicle performance monitoring, where accuracy is vital.
 
- Proof-of-availability is one of the main building blocks of the whole network architecture, thus the Soarchain devices are required to participate in the creation of proofs by submitting the necessary data when they are asked by the challengers.
-
- Each Soarchain device has a challenge score which diminishes over time and should be kept over a certain threshold to be able to receive challenges that enable rewards from the finalized proof processes. The signatures and data collected from the challenged Soarchain device are checked by the challengers, and submitted as reward requests to the validators.
-
- After the block time is reached, validators achieve consensus on the validity and ordering of the transactions, generate and finalize the blocks according to their consensus mechanism. The rewards are distributed at the end of each epoch, which is a constant period which is the total time it takes for a predetermined number of successive blocks to be created.
-
-At a given epoch, a block consists of the following main fields:
-
-- Header
-- Transactions
-- Evidence
-- Last Commit
-
-![PoAv](/img/poa1.gif)
+While Solana serves as the underlying blockchain infrastructure, **Soarchain focuses on creating a decentralized mobility ecosystem**. With a decentralized approach, Soarchain ensures that millions of vehicles can securely share data without relying on centralized authorities. This enables the network to grow and scale effectively, supporting the continuous flow of data generated from vehicles, including in-vehicle diagnostics and sensor readings.

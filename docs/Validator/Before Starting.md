@@ -4,7 +4,7 @@ sidebar_position: 1
 
 ## Introduction
 
-Soarchain is a blockchain network powered by Tendermint Core, relying on validators to maintain its integrity and security. Validators, who are full node operators, participate in the consensus protocol and are incentivized with $SOAR tokens. This guide provides a brief overview of becoming a validator and setting up a full node for Soarchain.
+Soarchain Testnet relies on validators to maintain its integrity and security. Validators, who are full node operators, participate in the consensus protocol and are incentivized with $SOAR tokens. This guide provides a brief overview of becoming a validator and setting up a full node for Soarchain.
 
 ### Before Starting
 

@@ -2,43 +2,10 @@
 sidebar_position: 3
 ---
 
-# Soarchain Devices (Onboard Units)
+# Soarchain Devices
 
+**Soarchain Mini** is the plug-and-play device that connects vehicles to the Soarchain network, allowing them to share valuable real-time data, including engine diagnostics, fuel consumption, battery levels, and various sensor readings. Soarchain Mini enables vehicles to broadcast this data, which is then processed and verified within the network.
 
-### [Soarchain devices](https://www.soarchain.com/devices)  are the open-source hardware units that enable the vehicles to communicate with each other, the infrastructure, people and the cloud through different communication protocols.
+With Soarchain Mini, vehicles become active participants in the decentralized mobility ecosystem, contributing data to applications such as predictive maintenance, AI-driven diagnostics, and smart insurance models.
 
-![Soarchain Pro](/img/soar9_v2.927.png)
-<p align="center">
-Soarchain Pro 
-</p>
-
-
-## Features
-
-- **Cellular-V2X PC5 Mode 4** protocol for disseminating signed and encrypted messages that help vehicles and other proximate nodes become aware of each other and directly exchange information.
-
-
-- **Cellular communication (5G-NR/4G-LTE)** for constant connectivity to the main network. This enables message-generating vehicles and message-processing vehicles to send verified proofs to be validated by the validator network and in order to successfully get included in the next block.
-
-
-- **Wi-Fi and Bluetooth** for user/driver connectivity, visualization of applications and data on the smartphone.
-
-- **Storage and processing power** for executing proof-related processes and storing logs from different sources within the internal network of the vehicle.
-
-- **Trusted Platform Module and Hardware Security Module** for securely storing master and private keys, accelerating cryptographic functions and preventing tampering of the hardware.
-
-- **CAN and OBD-II** access to the vehicle for reading real-time device and diagnostics information.
-
-- **High-precision GNSS and Inertial Measurement Unit (IMU)** to provide data for localization, safety and autonomy applications.
-
-
-> There are different types of Soarchain devices which support different configurations and proof mechanisms. Soarchain devices are the full-fledged hardware that employs all the aforementioned features and is able to participate in all the proof mechanisms in Soarchain, as well as issue all types of challenges.
->
-> **[Soarchain Mini](https://www.soarchain.com/soarchain-mini)** is the low-end hardware which employs only a few of these features and links directly to the user’s mobile device to use it as a relay device. They can only participate in network-based proof mechanisms. Soarchain mini can be thought of as a light, messaging and computational node.
-
-
-![Soarchain mini](/img/mini_render_1.jpeg)
-
-<p align="center">
-Soarchain Mini
-</p>
+Vehicle owners who use Soarchain Mini can **own and monetize** their data, earning $SOAR tokens for their contributions. These tokens can be used within the Soarchain ecosystem or exchanged, providing a new revenue stream for vehicle owners. The device also allows vehicles to access real-time diagnostics and other mobility applications, improving performance and safety.

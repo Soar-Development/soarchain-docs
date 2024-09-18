@@ -84,17 +84,6 @@ hide_table_of_contents: true
     <div class="col">
       <div class="card card-body h-100 d-flex flex-column">
         <a
-          href="/category/ecosystem"
-          class="card-title card-link stretched-link"
-        >
-          <h2>Ecosystem </h2>
-        </a>
-        <p class="card-text">Discover the Soarchain ecosystem.</p>
-      </div>
-    </div>
-    <div class="col">
-      <div class="card card-body h-100 d-flex flex-column">
-        <a
           href="/category/smart-contracts"
           class="card-title card-link stretched-link"
         >
