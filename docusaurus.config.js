@@ -127,29 +127,17 @@ const config = {
           alt: 'Soar',
           src: 'img/favicon-96x96.png',
           href: '/',
-          height: '60px',
+          height: '40px',
         },
         style: 'dark',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Lightpaper',
-                href:'https://www.soarchain.com/lightpaper'
-              },
-              {
-                label : 'Application Ecosystem',
-                to: '/category/ecosystem'
-              }
-            ]
-          },
+
           {
             title: 'Community',
             items: [
               {
                 label: 'Soarchain Community',
-                href: 'https://www.soarchain.com/community'
+                href: 'https://linktr.ee/soarchain'
               },
               {
                 label: 'Discord',
@@ -174,7 +162,7 @@ const config = {
                 href: 'https://medium.com/@soarchain'
               },
               {
-                label: 'Devnet',
+                label: 'Testnet',
                 href: 'http://explorer.soarchain.com'
               }
             ]

@@ -99,15 +99,15 @@
 }
 
 .footer__copyright {
-  margin-top: 32px;
+  margin-top: 16px; /* Reduced margin */
   font-size: 14px;
   color: var(--docs-color-text-100);
 }
 
 .footer__row {
   display: flex;
+  padding: 10px 0; /* Added padding to control height */
 }
-
 
 .footer__cta a:hover {
   background-color: var(--ifm-color-primary-darker);
@@ -125,7 +125,7 @@
   font-size: 16px;
   font-weight: normal;
   color: var(--docs-color-text-100);
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.25rem; /* Reduced margin */
 }
 
 .footer__item {
