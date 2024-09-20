@@ -131,7 +131,15 @@ const config = {
         },
         style: 'dark',
         links: [
-
+          {
+            title: 'Docs',
+            items: [
+              {
+                label: 'Lightpaper',
+                href:'https://github.com/soar-robotics/soarchain-docs/blob/dev/LightPaper/Soarchain_Litepaper_2024.pdf'
+              }
+            ]
+          },
           {
             title: 'Community',
             items: [
