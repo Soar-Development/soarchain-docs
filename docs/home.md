@@ -79,22 +79,6 @@ hide_table_of_contents: true
   </div>
 </div>
 
-<div class="docs-card-container">
-  <div class="row row-cols-1 row-cols-md-3a g-3">
-    <div class="col">
-      <div class="card card-body h-100 d-flex flex-column">
-        <a
-          href="/category/smart-contracts"
-          class="card-title card-link stretched-link"
-        >
-          <h2>Smart Contracts</h2>
-        </a>
-        <p class="card-text">Learn about smart contracts.
-        </p>
-      </div>
-    </div>
-  </div>
-</div>
 
 ## $SOAR
 
