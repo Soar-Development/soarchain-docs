@@ -1,35 +1,28 @@
 ---
-
 sidebar_position: 2
 hide_table_of_contents: false
 hidden: false
-
 ---
 
 # What is Soarchain?
 
 <p align="center">
-A single-purpose blockchain to address the needs of mobility.
+A decentralized network for real-time mobility data sharing.
 </p>
 
 >
-**​[Soarchain](https://www.soarchain.com/)  is a Layer 1 built on [Cosmos SDK](https://v1.cosmos.network/sdk) network that enables a token-incentivized data and connectivity infrastructure for mobility.  With its native smart contracts, Soarchain enables decentralized applications specific to mobility, creating a dAPP ecosystem on cars, leading to a revolution of more efficient, cost-effective, and eco-friendly transportation.**
+**​[Soarchain](https://www.soarchain.com/) is a decentralized physical infrastructure network (DePIN) built on [Solana](https://solana.com/), enabling real-time data sharing between vehicles and the mobility ecosystem. With Soarchain’s native smart contracts, vehicle-generated data is verified and used to create decentralized applications that transform the future of transportation.**
 
+### New Possibilities for Mobility
+Soarchain revolutionizes transportation by enabling users to own and monetize their vehicle-generated data while accessing innovative services such as dynamic insurance and predictive maintenance.
 
-### Soarchain is opening up new possibilities.
+### How Soarchain Works
+Soarchain devices connect vehicles to the network, allowing them to contribute verified data in real-time. This data is used to power decentralized mobility applications and services.
 
-Soarchain is disrupting the transportation realm with blockchain technology, offering a fully decentralized platform of applications to revolutionize how we get around. From improving road safety and data collection to providing the convenience of device management and pay-how-you-drive insurance, Soarchain allows users to be directly in control.
-
-### How Soarchain is changing the way, we get around?
-
-The Soarchain device is at the forefront of this innovation, connecting all cars to the Soarchain network with just a single plug-in unlocking access to an exciting array of applications and services. To set it up, you must plug a Soarchain device into your standard port for instantaneous access.
-
-### Purpose specific L1 solution
-
-Soarchain, a sovereign app chain built on Cosmos SDK, is creating an environment where data can be securely collected, and real-time decisions can be made.
+### Purpose-Specific Solution
+Soarchain leverages Solana’s blockchain to enable secure, real-time data processing for decentralized mobility solutions.
 
 ### Decentralized Application Ecosystem
-
-Securely storing and sharing vehicle data enables a smart contract enabled [decentralized application ecosystem](https://www.soarchain.com/application-ecosystem).
+[Soarchain’s decentralized ecosystem](https://www.soarchain.com/application-ecosystem) enables innovative applications built on secure, verified vehicle data.
 
 ![Dapps](/img/dapps.jpg)

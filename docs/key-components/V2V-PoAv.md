@@ -1,16 +1,13 @@
 ---
-sidebar_position: 5
+sidebar_position: 3
 ---
 
-# V2V Proof-of-Availability
+# Runner Infrastructure
 
-### Vehicle-to-Vehicle Proof-of-Availability
+The **Runner infrastructure** forms the backbone of Soarchain’s network, providing both verification and computational power. Runners process the vehicle-generated data shared within the network, ensuring that it is accurate and secure before being used in real-time mobility applications.
 
-One of the most important aspects of Soarchain is the vehicle-to-vehicle connectivity that enables geographically proximate vehicles(and any node that contains V2V functionality on the hardware level) to communicate application-specific data to each other without depending on any type of fixed infrastructure or direct line-of-sight between the vehicles. 
+Runners handle data such as engine diagnostics, fuel consumption, battery status, and other in-vehicle metrics. They verify the authenticity of this data, ensuring that only accurate and trustworthy information is used by developers and decentralized applications.
 
-Through this mechanism, our goal is to create a global fleet of locally-aligned vehicular ad hoc networks that communicate mission-critical data to each other and unlock countless road safety, carbon-emission reduction and collective perception applications. 
+In addition to verification, Runners provide the **computational power** needed for more complex applications, such as AI-driven diagnostics, predictive maintenance, and dynamic insurance models. This computational capacity enables Soarchain to support large-scale, data-intensive tasks, ensuring that the network can handle the demands of modern mobility solutions.
 
-We propose a method to verify that **$n_{bx}$** number of messages have been broadcast by a Soarchain device by only validating **$p_{bx}$** number of those messages where 	$\log(p_{bx})$ > **$f_{bx}$** and **$f_{bx}$** is a network security parameter,  as well as verify **$n_{rx}$** number of messages have been independently and correctly received and processed by a Soarchain device by only validating **$p_{rx}$**  number of those messages where $\log(p_{rx})$ > **$f_{rx}$** and **$f_{rx}$** is a network security parameter. 
-
-Since all devices capable of V2V communication are required to both broadcast(bx) and receive(rx) messages, Soarchain incentivizes honest behavior for both of these modes for each device, and each device is expected to participate and provide proofs for both V2V Broadcaster Challenge and V2V Receiver Challenge. Note that the names are given according to their modes of V2V communication, therefore a “receiver” can also be found “sending” data to the network, which is realized through the cellular network rather than the V2V interface. 
-
+The Runner infrastructure allows Soarchain to scale, processing data from millions of vehicles in real-time while maintaining high levels of accuracy and efficiency.
