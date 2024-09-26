@@ -137,3 +137,9 @@
 .footer__link-item:hover {
   text-decoration: none;
 }
+
+/* src/css/custom.css */
+mark {
+  background-color: rgb(0, 255, 200) !important;
+  color: rgb(128, 9, 0) !important;
+}
