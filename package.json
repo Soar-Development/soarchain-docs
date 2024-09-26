@@ -22,6 +22,7 @@
     "@mdx-js/react": "^1.6.22",
     "clsx": "^1.1.1",
     "docusaurus": "^1.14.7",
+    "express": "^4.18.2",
     "hast-util-is-element": "1.1.0",
     "mdx-mermaid": "^v1.3.0",
     "mermaid": "^9.3.0",
