@@ -23,21 +23,16 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
 
-  plugins: [
-    [
-      require.resolve("@cmfcmf/docusaurus-search-local"),
-      {
-        indexBlog: false,
-        //other options are used as default
-      },
-    ],
-  ],
-
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en'],
+  },
+  
+  plugins: [require.resolve('docusaurus-lunr-search')], 
 
   presets: [
     [
       'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
@@ -81,21 +76,10 @@ const config = {
             activeBasePath: "/introduction/whitepaper"
           },
           {
-            position:'left',
-            label:'Website',
-            href:'https://www.soarchain.com'
+            position: 'left',
+            label: 'Website',
+            href: 'https://www.soarchain.com'
           },
-
-          // {
-          //   // type: 'dropdown',
-          //   // label: 'API',
-          //   // position: 'left',
-          //   // items: [
-
-          //   // ],
-          // },
-
-
           {
             href: 'https://discord.gg/eKUXe2VT',
             position: 'right',
@@ -116,10 +100,7 @@ const config = {
             className: 'header-twitter-link',
             title: 'Soarchain Twitter',
             'aria-label': 'Soarchain twitter',
-
           }
-
-
         ],
       },
       footer: {
@@ -136,7 +117,7 @@ const config = {
             items: [
               {
                 label: 'Lightpaper',
-                href:'https://github.com/soar-robotics/soarchain-docs/blob/dev/LightPaper/Soarchain_Litepaper_2024.pdf'
+                href: 'https://github.com/soar-robotics/soarchain-docs/blob/dev/LightPaper/Soarchain_Litepaper_2024.pdf'
               }
             ]
           },
@@ -159,7 +140,6 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/soar-robotics'
               }
-
             ]
           },
           {
@@ -177,16 +157,16 @@ const config = {
           }
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Soar Robotics`
-},
+      },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
     }),
 
-    scripts: [
-      "/js/redirect.js",
-    ]
+  scripts: [
+    "/js/redirect.js",
+  ]
 };
 
 module.exports = config;
